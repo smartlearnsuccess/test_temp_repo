@@ -1,0 +1,492 @@
+[
+  {
+    "Question": "Which of the following Indian heritage sites was recently inscribed on UNESCO's World Heritage List under the Cultural Property category?",
+    "Option1": "Kaziranga National Park",
+    "option2": "Manas Wildlife Sanctuary",
+    "option3": "Moidams – the Mound-Burial System of the Ahom Dynasty",
+    "Option4": "Red Fort",
+    "Option5": "Ajanta Caves",
+    "Option6": "",
+    "Correct Answer": 3
+  },
+  {
+    "Question": "As per recent reports, the 46th session of the World Heritage Committee was held in which city?",
+    "Option1": "New Delhi",
+    "option2": "Paris",
+    "option3": "Rome",
+    "Option4": "London",
+    "Option5": "Beijing",
+    "Option6": "",
+    "Correct Answer": 1
+  },
+  {
+    "Question": "As of July 2024, how many World Heritage Properties does India have in total?",
+    "Option1": 39,
+    "option2": 41,
+    "option3": 42,
+    "Option4": 43,
+    "Option5": 45,
+    "Option6": "",
+    "Correct Answer": 4
+  },
+  {
+    "Question": "Which of the following statements is/are correct regarding India's position in the World Heritage list? <br />i) India ranks 6th globally in terms of the number of World Heritage Properties. <br />ii) India ranks 3rd in the Asia Pacific Region. <br />iii) India has inscribed 13 World Heritage Properties in the last decade.",
+    "Option1": "Only i",
+    "option2": "Only ii",
+    "option3": "Both i and iii",
+    "Option4": "Both ii and iii",
+    "Option5": "All i, ii, and iii",
+    "Option6": "",
+    "Correct Answer": 3
+  },
+  {
+    "Question": "Which country has the maximum number of World Heritage Sites as of 2024?",
+    "Option1": "China",
+    "option2": "Italy",
+    "option3": "Germany",
+    "Option4": "France",
+    "Option5": "Spain",
+    "Option6": "",
+    "Correct Answer": 2
+  },
+  {
+    "Question": "According to a recent newspaper report, which state received the PRAISE award for Access to Financial Inclusion and Street Vendor's Empowerment under PM SVANidhi in 2024?",
+    "Option1": "Andhra Pradesh",
+    "option2": "Punjab",
+    "option3": "Madhya Pradesh",
+    "Option4": "Uttar Pradesh",
+    "Option5": "Kerala",
+    "Option6": "",
+    "Correct Answer": 3
+  },
+  {
+    "Question": "Which bank was recognized as the top performer in the category of ‘Best Performing Lending Institutions - ‘Loan Performance’ - Public & Private Sector Banks under the PM SVANidhi scheme?",
+    "Option1": "State Bank of India",
+    "option2": "Punjab National Bank",
+    "option3": "Canara Bank",
+    "Option4": "Bank of Baroda",
+    "Option5": "Bank of India",
+    "Option6": "",
+    "Correct Answer": 3
+  },
+  {
+    "Question": "Which state ranked first in the Overall State Performance under the DAY-NULM and received the SPARK award in 2024?",
+    "Option1": "Rajasthan",
+    "option2": "Uttar Pradesh",
+    "option3": "Madhya Pradesh",
+    "Option4": "Kerala",
+    "Option5": "Himachal Pradesh",
+    "Option6": "",
+    "Correct Answer": 4
+  },
+  {
+    "Question": "In July 2024, which state ranked first in the Small States & UTs category under the PRAISE award for PM SVANidhi?",
+    "Option1": "Assam",
+    "option2": "Sikkim",
+    "option3": "Ladakh",
+    "Option4": "Puducherry",
+    "Option5": "Tripura",
+    "Option6": "",
+    "Correct Answer": 3
+  },
+  {
+    "Question": "In the Hilly and Northeastern States category, which state topped under the PRAISE award for PM SVANidhi in 2024?",
+    "Option1": "Assam",
+    "option2": "Sikkim",
+    "option3": "Tripura",
+    "Option4": "Himachal Pradesh",
+    "Option5": "Uttarakhand",
+    "Option6": "",
+    "Correct Answer": 1
+  },
+  {
+    "Question": "When was the PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi) scheme launched?",
+    "Option1": "1st January 2021",
+    "option2": "1st June 2020",
+    "option3": "24th September 2013",
+    "Option4": "1st July 2019",
+    "Option5": "26th January 2020",
+    "Option6": "",
+    "Correct Answer": 2
+  },
+  {
+    "Question": "What is the maximum collateral-free working capital loan amount provided to urban street vendors under the PM SVANidhi scheme?",
+    "Option1": 50000,
+    "option2": 60000,
+    "option3": 70000,
+    "Option4": 80000,
+    "Option5": 90000,
+    "Option6": "",
+    "Correct Answer": 4
+  },
+  {
+    "Question": "Which event was organized by the Ministry of Housing and Urban Affairs on 18th July 2024 to felicitate the best performers under PM SVANidhi and DAY-NULM?",
+    "Option1": "Utkrishtata ki Ore Badhte Kadam: Celebrating Achievements, Inspiring Excellence",
+    "option2": "AtmaNirbhar Bharat: Honoring the Best",
+    "option3": "National Livelihoods Mission Summit",
+    "Option4": "Street Vendors Empowerment Awards",
+    "Option5": "National Urban Excellence Ceremony",
+    "Option6": "",
+    "Correct Answer": 1
+  },
+  {
+    "Question": "Which state received a special award for outstanding performance under the PM SVANidhi scheme?",
+    "Option1": "Maharashtra",
+    "option2": "Uttar Pradesh",
+    "option3": "Rajasthan",
+    "Option4": "Andhra Pradesh",
+    "Option5": "Punjab",
+    "Option6": "",
+    "Correct Answer": 1
+  },
+  {
+    "Question": "According to recent newspaper reports, what is the extended outlay of the Electric Mobility Promotion Scheme 2024 (EMPS 2024) after its extension?",
+    "Option1": "Rs. 500 crore",
+    "option2": "Rs. 650 crore",
+    "option3": "Rs. 700 crore",
+    "Option4": "Rs. 778 crore",
+    "Option5": "Rs. 800 crore",
+    "Option6": "",
+    "Correct Answer": 4
+  },
+  {
+    "Question": "The EMPS 2024 aims to support how many electric two-wheelers (e-2Ws)?",
+    "Option1": 100000,
+    "option2": 250000,
+    "option3": 400000,
+    "Option4": 500080,
+    "Option5": 600000,
+    "Option6": "",
+    "Correct Answer": 4
+  },
+  {
+    "Question": "Under the EMPS 2024(Electric Mobility Promotion Scheme 2024), what is the subsidy per kWh of battery capacity for electric rickshaws and carts?",
+    "Option1": "Rs. 3,000",
+    "option2": "Rs. 4,000",
+    "option3": "Rs. 5,000",
+    "Option4": "Rs. 6,000",
+    "Option5": "Rs. 7,000",
+    "Option6": "",
+    "Correct Answer": 3
+  },
+  {
+    "Question": "Which organization released guidelines for the implementation of bagless days for classes 6 to 8?",
+    "Option1": "Central Board of Secondary Education (CBSE)",
+    "option2": "National Council for Educational Research and Training (NCERT)",
+    "option3": "University Grants Commission (UGC)",
+    "Option4": "All India Council for Technical Education (AICTE)",
+    "Option5": "Ministry of Education",
+    "Option6": "",
+    "Correct Answer": 2
+  },
+  {
+    "Question": "According to the guidelines released by NCERT, how many days of school time should be allocated for the bagless days program?",
+    "Option1": "5 days",
+    "option2": "7 days",
+    "option3": "10 days",
+    "Option4": "15 days",
+    "Option5": "20 days",
+    "Option6": "",
+    "Correct Answer": 3
+  },
+  {
+    "Question": "What is the subsidy cap for L5 electric three-wheelers under the EMPS 2024?",
+    "Option1": "Rs. 25,000 per vehicle",
+    "option2": "Rs. 30,000 per vehicle",
+    "option3": "Rs. 40,000 per vehicle",
+    "Option4": "Rs. 50,000 per vehicle",
+    "Option5": "Rs. 60,000 per vehicle",
+    "Option6": "",
+    "Correct Answer": 4
+  },
+  {
+    "Question": "PARAKH is a unit established within NCERT in which year?",
+    "Option1": 2020,
+    "option2": 2021,
+    "option3": 2022,
+    "Option4": 2023,
+    "Option5": 2024,
+    "Option6": "",
+    "Correct Answer": 4
+  },
+  {
+    "Question": "What is the recommended percentage of Class 10 score that should be derived from Class 9 performance, according to PARAKH&rsquo;s proposal?",
+    "Option1": "10%",
+    "option2": "20%",
+    "option3": "30%",
+    "Option4": "40%",
+    "Option5": "50%",
+    "Option6": "",
+    "Correct Answer": 4
+  },
+  {
+    "Question": "Which component of AMRUT 2.0 focuses on the reuse of treated sewage and water conservation?",
+    "Option1": "Technology Sub-Mission",
+    "option2": "Information, Education and Communication (IEC) campaign",
+    "option3": "Pey Jal Survekshan",
+    "Option4": "City Water Balance Plan (CWBP)",
+    "Option5": "Urban Planning Mission",
+    "Option6": "",
+    "Correct Answer": 4
+  },
+  {
+    "Question": "The total indicative outlay for AMRUT 2.0 is how much?",
+    "Option1": "₹1,50,000 crore",
+    "option2": "₹2,00,000 crore",
+    "option3": "₹2,50,000 crore",
+    "Option4": "₹2,99,000 crore",
+    "Option5": "₹3,50,000 crore",
+    "Option6": "",
+    "Correct Answer": 4
+  },
+  {
+    "Question": "According to recent newspaper reports, PARAKH has proposed that the final Class 12 report card should include how much percentage contribution from Class 9?",
+    "Option1": "10%",
+    "option2": "15%",
+    "option3": "20%",
+    "Option4": "25%",
+    "Option5": "30%",
+    "Option6": "",
+    "Correct Answer": 2
+  },
+  {
+    "Question": "Which of the following statements is/are correct regarding AMRUT 2.0? <br />i. AMRUT 2.0 was launched on 1st October 2021. <br />ii. The scheme has a total outlay of ₹3,00,000 crore. <br />iii. AMRUT 2.0 aims to promote a circular economy of water. <br />Select the correct option:",
+    "Option1": "i only",
+    "option2": "i and ii only",
+    "option3": "i and iii only",
+    "Option4": "ii and iii only",
+    "Option5": "All of the above",
+    "Option6": "",
+    "Correct Answer": 3
+  },
+  {
+    "Question": "How much financial support does the Central Government propose to give to the Smart Cities Mission over five years?",
+    "Option1": "Rs. 10,000 crores",
+    "option2": "Rs. 48,000 crores",
+    "option3": "Rs. 75,000 crores",
+    "Option4": "Rs. 1,00,000 crores",
+    "Option5": "Rs. 2,00,000 crores",
+    "Option6": "",
+    "Correct Answer": 2
+  },
+  {
+    "Question": "The implementation period of the Pradhan Mantri Awas Yojana – Urban (PMAY-U) scheme has been extended up to which date?",
+    "Option1": "31st March 2024",
+    "option2": "31st December 2024",
+    "option3": "31st March 2025",
+    "Option4": "31st December 2025",
+    "Option5": "31st March 2026",
+    "Option6": "",
+    "Correct Answer": 2
+  },
+  {
+    "Question": "Under PMAY-U, which of the following income groups is targeted for housing support?",
+    "Option1": "High-Income Group (HIG)",
+    "option2": "Only Economically Weaker Section (EWS)",
+    "option3": "Low Income Group (LIG) and Economically Weaker Section (EWS)",
+    "Option4": "EWS, LIG, and Middle-Income Group (MIG)",
+    "Option5": "All income groups",
+    "Option6": "",
+    "Correct Answer": 4
+  },
+  {
+    "Question": "Which city in India is not mentioned as having an inaugurated Light House Project (LHP) under PMAY-U?",
+    "Option1": "Chennai",
+    "option2": "Rajkot",
+    "option3": "Indore",
+    "Option4": "Agartala",
+    "Option5": "Lucknow",
+    "Option6": "",
+    "Correct Answer": 4
+  },
+  {
+    "Question": "When was the E-Upahaar portal launched?",
+    "Option1": "July 15, 2024",
+    "option2": "July 20, 2024",
+    "option3": "July 25, 2024",
+    "Option4": "July 30, 2024",
+    "Option5": "August 1, 2024",
+    "Option6": "",
+    "Correct Answer": 3
+  },
+  {
+    "Question": "Who is the Chairman of the Central Water Commission?",
+    "Option1": "Rajiv Kumar",
+    "option2": "Kiran Kumar",
+    "option3": "Vijay Sharma",
+    "Option4": "Kushvinder Vohra",
+    "Option5": "Arun Prakash",
+    "Option6": "",
+    "Correct Answer": 4
+  },
+  {
+    "Question": "Which of the following is NOT one of the seven themes of the Ideas4LiFE Ideathon?",
+    "Option1": "Save Water",
+    "option2": "Save Energy",
+    "option3": "Reduce E-Waste",
+    "Option4": "Promote Electric Vehicles",
+    "Option5": "Adopt Sustainable Food Systems",
+    "Option6": "",
+    "Correct Answer": 4
+  },
+  {
+    "Question": "What organization conceptualized and developed the E-Upahaar portal?",
+    "Option1": "Indian Institute of Technology",
+    "option2": "National Informatics Centre (NIC)",
+    "option3": "Central Bureau of Investigation",
+    "Option4": "Department of Telecommunications",
+    "Option5": "National Informatics Centre Services Inc",
+    "Option6": "",
+    "Correct Answer": 2
+  },
+  {
+    "Question": "Which organization announced the launch of the Mobile Therapy Bus initiative?",
+    "Option1": "National Institute for the Empowerment of Persons with Intellectual Disabilities (NIEPID)",
+    "option2": "Hans Foundation",
+    "option3": "Department of Empowerment of Persons with Disabilities (DEPwD)",
+    "Option4": "Ministry of Social Justice and Empowerment",
+    "Option5": "Central Social Welfare Board",
+    "Option6": "",
+    "Correct Answer": 1
+  },
+  {
+    "Question": "How many Mobile Therapy Buses are planned to be deployed as part of the initiative?",
+    "Option1": "Three",
+    "option2": "Five",
+    "option3": "Seven",
+    "Option4": "Ten",
+    "Option5": "Twelve",
+    "Option6": "",
+    "Correct Answer": 2
+  },
+  {
+    "Question": "According to recent reports, which cities will benefit from the Mobile Therapy Bus initiative?",
+    "Option1": "Delhi, Chennai, Bengaluru, and Hyderabad",
+    "option2": "Noida, Ghaziabad, Kolkata, and Mumbai",
+    "option3": "Pune, Jaipur, Ahmedabad, and Surat",
+    "Option4": "Lucknow, Kanpur, Patna, and Ranchi",
+    "Option5": "Bengaluru, Chennai, Kochi, and Thiruvananthapuram",
+    "Option6": "",
+    "Correct Answer": 2
+  },
+  {
+    "Question": "Which of the following is/are correct based on the provided information?<br />i: The Mobile Therapy Buses are designed to provide educational services to children with disabilities.<br />ii: The initiative is a collaboration between NIEPID and the Hans Foundation. <br />iii: The initiative aims to reach nearly 14,000 people with disabilities. <br /><br />",
+    "Option1": "Only Statement i is correct",
+    "option2": "Only Statements ii and iii are correct",
+    "option3": "Only Statement iii is correct",
+    "Option4": "All Statements are correct",
+    "Option5": "Only Statement ii is correct",
+    "Option6": "",
+    "Correct Answer": 2
+  },
+  {
+    "Question": "According to a recent report, who has taken over the Chair of the Asian Disaster Preparedness Centre (ADPC) for the year 2024-25?",
+    "Option1": "Shri Narendra Modi",
+    "option2": "Shri Rajendra Singh",
+    "option3": "Shri Pramod Kumar Tiwari",
+    "Option4": "A representative from the People’s Republic of China",
+    "Option5": "A representative from Bangladesh",
+    "Option6": "",
+    "Correct Answer": 2
+  },
+  {
+    "Question": "What is the primary focus of the Asian Disaster Preparedness Centre (ADPC)?",
+    "Option1": "Economic Development",
+    "option2": "Disaster Risk Reduction and building climate resilience",
+    "option3": "Technological Innovation",
+    "Option4": "Trade Relations",
+    "Option5": "Education Reform",
+    "Option6": "",
+    "Correct Answer": 2
+  },
+  {
+    "Question": "How many new airports are expected to be operationalised this year under the regional air connectivity scheme?",
+    "Option1": 10,
+    "option2": 12,
+    "option3": 15,
+    "Option4": 18,
+    "Option5": 20,
+    "Option6": "",
+    "Correct Answer": 2
+  },
+  {
+    "Question": "According to recent reports, what is the investment target set by India and Japan by 2027?",
+    "Option1": "Yen 3 trillion ($22 billion)",
+    "option2": "Yen 4 trillion ($32 billion)",
+    "option3": "Yen 5 trillion ($42 billion)",
+    "Option4": "Yen 6 trillion ($50 billion)",
+    "Option5": "Yen 7 trillion ($55 billion)",
+    "Option6": "",
+    "Correct Answer": 3
+  },
+  {
+    "Question": "Where was the recent Quad foreign ministers' meeting held?",
+    "Option1": "New Delhi",
+    "option2": "Washington D.C.",
+    "option3": "Tokyo",
+    "Option4": "Sydney",
+    "Option5": "Brussels",
+    "Option6": "",
+    "Correct Answer": 3
+  },
+  {
+    "Question": "What is the unique feature of the newly inaugurated museum at the Humayun Tomb complex in Delhi?",
+    "Option1": "It is the largest museum in India",
+    "option2": "It is the first sunken museum in the country",
+    "option3": "It is located on an artificial island",
+    "Option4": "It features interactive digital exhibits",
+    "Option5": "It is built on the top of the tomb",
+    "Option6": "",
+    "Correct Answer": 2
+  },
+  {
+    "Question": "Who inaugurated the sunken museum at the Humayun Tomb complex?",
+    "Option1": "Union Minister for Culture and Tourism Gajendra Singh Shekhawat",
+    "option2": "Prime Minister Narendra Modi",
+    "option3": "President Droupadi Murmu",
+    "Option4": "Chief Minister of Delhi Arvind Kejriwal",
+    "Option5": "Union Minister for Education Dharmendra Pradhan",
+    "Option6": "",
+    "Correct Answer": 1
+  },
+  {
+    "Question": "By which year does Gujarat aim to become a USD 3.5 trillion economy?",
+    "Option1": 2025,
+    "option2": 2030,
+    "option3": 2040,
+    "Option4": 2047,
+    "Option5": 2050,
+    "Option6": "",
+    "Correct Answer": 4
+  },
+  {
+    "Question": "Which prestigious award was conferred upon Union Minister Dr. Jitendra Singh?",
+    "Option1": "National Science Award",
+    "option2": "Lifetime Achievement Award",
+    "option3": "Excellence in Public Service Award",
+    "Option4": "Outstanding Research Award",
+    "Option5": "Distinguished Leadership Award",
+    "Option6": "",
+    "Correct Answer": 2
+  },
+  {
+    "Question": "What is the unique distinction mentioned in the citation awarded to Dr. Jitendra Singh?",
+    "Option1": "Lifetime Member of the WHO",
+    "option2": "Lifetime Patron of RSSDI",
+    "option3": "Honorary Doctorate in Medicine",
+    "Option4": "Chairperson of the International Diabetes Federation",
+    "Option5": "Chief Researcher at the Diabetes Institute",
+    "Option6": "",
+    "Correct Answer": 2
+  },
+  {
+    "Question": "According to recent reports, which institutions signed a Memorandum of Understanding (MoU) to enhance economic and financial security?",
+    "Option1": "Rashtriya Raksha University and Indian Institute of Technology",
+    "option2": "Rashtriya Raksha University and National Stock Exchange International Exchange (NSE IX)",
+    "option3": "National Stock Exchange and Reserve Bank of India",
+    "Option4": "Rashtriya Raksha University and National Bank for Agriculture and Rural Development",
+    "Option5": "Rashtriya Raksha University and Securities and Exchange Board of India",
+    "Option6": "",
+    "Correct Answer": 2
+  }
+]
